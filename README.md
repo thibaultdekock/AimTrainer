@@ -1,0 +1,2 @@
+# AimTrainer
+Simple aim trainer
